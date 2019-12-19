@@ -11,3 +11,9 @@ ol li{
     list-style-type:decimal
 
 }
+<style type="text/css">
+a:link {text-decoration:none; color: #99CC00;} /* Link no visitado*/
+a:visited {text-decoration:none; color:#99CC00} /*Link visitado*/
+a:active {text-decoration:none; color:#99CC00; background:#EEEEEE} /*Link activo*/
+a:hover {text-decoration:none; color:#99FF00; background: #EEEEEE} /*Mause sobre el link*/
+</style>
