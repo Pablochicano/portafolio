@@ -3,14 +3,11 @@ body{
     font-size: 22px;
     width: 500px;
     margin: 3em auto;
+    p a { color:olive; text decoration: none; }
 
 }
 
 ol li{
     list-style-type:decimal
 
-}
-a:hover {
-    font-size:20px;
-    color:#100;
 }
