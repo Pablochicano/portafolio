@@ -5,3 +5,7 @@ width: 500px;
 margin: 3em auto;
 
 }
+
+ol li{
+    list-style-type: lower-latin
+}
