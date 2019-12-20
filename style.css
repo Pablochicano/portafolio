@@ -16,7 +16,31 @@ a:active {text-decoration:none; color:#b967ff;} /*Link activo*/
 a:hover {text-decoration:none; color:#ff71ce;} /*Mause sobre el link*/
 /*</style>*/
 
+ul {
+  list-style-type: none;
+  margin: 0;
+    margin-top: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
 
+ul li{
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+ul li a:hover {
+  background-color: #111;
+}
 
 ol li{
     /*background: #ffe5e5;*/
@@ -24,6 +48,12 @@ ol li{
     /*margin-left: 35px;*/
     list-style-type:decimal;
     color: #b967ff;
+    background: #333;
+  margin: 5px;
+    margin-left 0px;
+    padding-left: 20px;
+    border-radius: 20px 0px 0px 20px;
+
 
 }
 
@@ -40,10 +70,11 @@ h2
 
 }
 #container > div > div {
-    width: 50%;
+    width: 70%;
     height: 20%;
 
 }
 #space-between {
     justify-content: space-between;
 }
+
