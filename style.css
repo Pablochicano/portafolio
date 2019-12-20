@@ -42,6 +42,7 @@ ul li a:hover {
   background-color: #111;
 }
 
+
 ol li{
     /*background: #ffe5e5;*/
     /*padding: 1px;*/
@@ -53,8 +54,7 @@ ol li{
     margin-left 0px;
     padding-left: 20px;
     border-radius: 20px 0px 0px 20px;
-
-
+    
 }
 
 h2
@@ -63,7 +63,9 @@ h2
     font-size: 24px;
     /*width: 500px;*/
     margin: 25px;
-    color: #b967ff
+    color: #b967ff;
+    letter-spacing: 3px;
+    font-weight: normal;
 }
 #container > div {
     display: flex;
