@@ -7,7 +7,7 @@ body{
     font-size: 22px;
     width: 500px;
     margin: 25px;
-    background-color: #01cdfe;
+    background-color: #fffb96;
 }
 /*<style type="text/css">*/
 a:link {text-decoration:none; color: #b967ff;} /* Link no visitado*/
@@ -37,5 +37,5 @@ h2
   
 }
 #flex-start {
-  justify-content: flex-start;
+  justify-content: space-around;
 }
