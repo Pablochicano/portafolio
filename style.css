@@ -1,19 +1,41 @@
+title {
+    display: none;
+}
+
 body{
     font-family: Helvetica;
     font-size: 22px;
     width: 500px;
-    margin: 3em auto;
-    
-    <style type="text/css">
-a:link {text-decoration:none; color: #99CC00;} /* Link no visitado*/
-a:visited {text-decoration:none; color:#99CC00} /*Link visitado*/
-a:active {text-decoration:none; color:#99CC00; background:#EEEEEE} /*Link activo*/
-a:hover {text-decoration:none; color:#99FF00; background: #EEEEEE} /*Mause sobre el link*/
-</style>
+    margin: 25px;
+    background-color: #01cdfe;
+}
+/*<style type="text/css">*/
+a:link {text-decoration:none; color: #b967ff;} /* Link no visitado*/
+a:visited {text-decoration:none; color:#b967ff} /*Link visitado*/
+a:active {text-decoration:none; color:#b967ff;} /*Link activo*/
+a:hover {text-decoration:none; color:#ff71ce;} /*Mause sobre el link*/
+/*</style>*/
+
+
+
+ol li{
+    list-style-type:decimal;
+    color: #b967ff;
 
 }
 
-ol li{
-    list-style-type:decimal
-
+h2
+{
+  font-family: Helvetica;
+    font-size: 22px;
+    /*width: 500px;*/
+    margin: 3em auto;
+    color: #b967ff
+}
+#container > div {
+  display: flex;
+  
+}
+#flex-start {
+  justify-content: flex-start;
 }
