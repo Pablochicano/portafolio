@@ -19,6 +19,9 @@ a:hover {text-decoration:none; color:#ff71ce;} /*Mause sobre el link*/
 
 
 ol li{
+    /*background: #ffe5e5;*/
+    /*padding: 1px;*/
+    /*margin-left: 35px;*/
     list-style-type:decimal;
     color: #b967ff;
 
@@ -26,21 +29,21 @@ ol li{
 
 h2
 {
-  font-family: Helvetica;
+    font-family: Helvetica;
     font-size: 22px;
     /*width: 500px;*/
     margin: 3em auto;
     color: #b967ff
 }
 #container > div {
-  display: flex;
-  
+    display: flex;
+
 }
 #container > div > div {
     width: 50%;
-  height: 20%;
-  
+    height: 20%;
+
 }
 #space-between {
-  justify-content: space-between;
+    justify-content: space-between;
 }
