@@ -5,7 +5,7 @@ title {
 body{
     font-family: Helvetica;
     font-size: 22px;
-    width: 500px;
+    width: 2000;
     margin: 25px;
     background-color: #fffb96;
 }
@@ -37,8 +37,10 @@ h2
   
 }
 #container > div > div {
+    width: 50%;
+  height: 20%;
   
 }
-#space-around {
-  justify-content: space-around;
+#space-between {
+  justify-content: space-between;
 }
