@@ -36,6 +36,9 @@ h2
   display: flex;
   
 }
+#container > div > div {
+  
+}
 #flex-start {
   justify-content: space-around;
 }
