@@ -33,12 +33,12 @@ h2
     color: #b967ff
 }
 #container > div {
-  display: flex;
+  /*display: flex;*/
   
 }
 #container > div > div {
   
 }
-#flex-start {
+#space-around {
   justify-content: space-around;
 }
