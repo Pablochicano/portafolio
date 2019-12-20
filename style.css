@@ -6,7 +6,7 @@ body{
     font-family: Helvetica;
     font-size: 22px;
     width: 2000;
-    margin: 25px;
+    margin: 0px;
     background-color: #000000;
 }
 /*<style type="text/css">*/
@@ -60,9 +60,9 @@ ol li{
 h2
 {
     font-family: Helvetica;
-    font-size: 22px;
+    font-size: 24px;
     /*width: 500px;*/
-    margin: 3em auto;
+    margin: 25px;
     color: #b967ff
 }
 #container > div {
