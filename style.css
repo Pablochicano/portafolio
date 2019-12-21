@@ -85,11 +85,11 @@ h2
     justify-content: space-between;
 }
 
-p.firma {
-    
+h3
+{
+    font-family: Helvetica;
+    font-size: 22px;
     color: #b967ff;
-    
-    
-    
+    font-weight:inherit;
     
 }
