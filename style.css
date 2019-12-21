@@ -85,9 +85,9 @@ h2
     justify-content: space-between;
 }
 
-h3 {
+.firma {
     font-family: Helvetica;
-    font-size: 20px;
+    font-size: 10px;
     /*width: 500px;*/
     margin: 0px;
     color: #b967ff;
