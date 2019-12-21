@@ -85,3 +85,14 @@ h2
     justify-content: space-between;
 }
 
+h3 {
+    font-family: Helvetica;
+    font-size: 22px;
+    /*width: 500px;*/
+    margin: 25px;
+    color: #b967ff;
+    
+    
+    
+    
+}
